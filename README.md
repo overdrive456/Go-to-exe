@@ -1,4 +1,4 @@
-# Go-to-exe
+# Go-to-exe V0.01
 It helps to convert Python to exe, with CX_freeze, made with PyQt5 
 how to convert? 
 
